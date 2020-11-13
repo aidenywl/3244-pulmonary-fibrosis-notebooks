@@ -10,7 +10,7 @@ Some of the notebooks here heavily reference and are built upon Khoong Wei Hao's
 - Vanessa Tan
 - Li Huihui
 - Lee Hui Qi
-- Ayush Chattoraj
-– Mani Mekala Sharad Hosur
+- Chattoraj Ayush
+- Mani Mekala Sharad Hosur
 - Aiden Low
 
